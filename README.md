@@ -15,7 +15,7 @@ Detection of spam mails according to the content in the mail
   Use Logistiic Regression model and get 96% accuracy
   
  ## Example 
- input = ["I've been searching for the right words to thank you for this breather. I promise i wont take your help for granted and will fulfil my promise. You have been wonderful and a blessing at all times"]
- o/p =  Ham Mail
- input1 = ["If you join this course you will get Free Laptop and certification from top company"]
+ input = ["I've been searching for the right words to thank you for this breather. I promise i wont take your help for granted and will fulfil my promise. You have been wonderful and a blessing at all times"]<br>
+ o/p =  Ham Mail<br>
+ input1 = ["If you join this course you will get Free Laptop and certification from top company"]<br>
  O/P = Spam Mail
